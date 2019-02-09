@@ -1,2 +1,0 @@
-# Paint
-Edytor graficzny Paint
